@@ -1,6 +1,6 @@
 {
   "AI": "https://ai.bunnii.net",
-  "API": "https://api.bunnii.net",
+  "API": "https://gateway.netsphere.moe/s/api.prod",
   "Gateway": "https://gateway.netsphere.moe",
   "PrimaryCDN": "https://cdn.bunnii.net",
   "SecondaryCDN": "https://cdn1.bunnii.net",
